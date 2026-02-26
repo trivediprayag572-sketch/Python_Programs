@@ -1,2 +1,6 @@
-# My Second Program
-print("My Second Program")
+num=5
+i=1
+while i<=10:
+    
+    print(num*i)
+    i=i+1
